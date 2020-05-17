@@ -65,6 +65,37 @@ body {
 /*body main page ends*/
 /*Home page ends*/
 
+/*subpage*/
+nav {
+	background-color: #0b5345;
+	opacity: .8; 
+}
+.navbar-brand {
+	position: relative;
+}
+.brand-logo:hover {
+	box-shadow: 0 1px 5px 1px #cccccc;
+}
+.to-home {
+	position: absolute;
+	left: 80px;
+	top: 15px;
+	padding-left: 20px;
+	color: #fff;
+	font-size: 20px;
+}
+.explore {
+	position: absolute;
+	color: #fff;
+	font-size: 20px;
+	left: 200px;
+	top: 15px;
+}
+.explore:hover {
+	color: #fff;
+}
+/*subpage ends*/
+
 /* footer */
 .panel-footer {
 	background-color: #0b5345;
