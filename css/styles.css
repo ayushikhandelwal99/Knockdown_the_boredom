@@ -3,6 +3,8 @@ body {
 	color: #fff;
 	background-color: #000;
 }
+
+/*Home page*/
 /*Header main page*/
 .header-img {
 	position: relative;
@@ -61,6 +63,7 @@ body {
 	color: #fff;
 }
 /*body main page ends*/
+/*Home page ends*/
 
 /* footer */
 .panel-footer {
