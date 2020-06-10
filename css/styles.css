@@ -59,7 +59,7 @@ body {
 	background-color: #000;
 }
 .category-tile:hover {
-	box-shadow: 0 1px 5px 1px #cccccc;
+	box-shadow: 0 2px 5px 5px #0b5345;
 }
 .category-tile img {
 	height: 150px;
@@ -90,8 +90,7 @@ footer .text-center.copyright {
 
 /*subpage*/
 nav {
-	background-color: #0b5345;
-	opacity: .8; 
+	background-color: #0b5345; 
 }
 .navbar-brand {
 	position: relative;
@@ -117,9 +116,17 @@ nav {
 .explore:hover {
 	color: #fff;
 }
-#movies,#documentary,#games {
-	
+div#sub-page.container {
+	margin-top: 20px;
+	padding-bottom: 20px;
 }
+div#sub-page.container h4 {
+	padding-top: 20px;
+}
+div#sub-page.container h5 {
+	padding-top: 10px;
+}
+
 /*subpage ends*/
 
 
